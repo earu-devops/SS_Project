@@ -10,4 +10,4 @@ def home():
 
 #Main Program
 if __name__ == '__main__':
-	app.run(debug = True)  #Run the application
+	app.run(debug = True, host='0.0.0.0')  #Run the application
