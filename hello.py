@@ -7,7 +7,7 @@ app = Flask(__name__)  #creating the Flask class Object
 
 #Create Function
 def home():
-	return "hello, this is our first flask website"
+	return "hello, this is our first flask website -  Fargate"
 
 #Main Program
 if __name__ == '__main__':
